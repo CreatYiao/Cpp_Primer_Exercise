@@ -1,3 +1,0 @@
-E:/Clion Project/C++ Primer/5/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/Clion Project/C++ Primer/5/cmake-build-debug/CMakeFiles/5.dir
-E:/Clion Project/C++ Primer/5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
